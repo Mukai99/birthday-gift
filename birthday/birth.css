@@ -11,8 +11,8 @@ body{
  #taiwa-img {
     max-width: 100%;
     height: 150px;
-    border-radius:50%;
-    border: 10px dotted rgb(246, 92, 117);
+    border-radius:25%;
+    border: 5px solid rgb(255, 137, 157);
            
 }
 h1, h2, h3, h4, p {
